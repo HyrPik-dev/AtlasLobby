@@ -1,2 +1,2 @@
 # AtlasLobby
-Plugin créer pour le serveur AtlasWorld.
+Fonctionnel en 1.9.4 (Tester)
