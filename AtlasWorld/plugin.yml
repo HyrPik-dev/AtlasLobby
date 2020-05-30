@@ -1,0 +1,12 @@
+name: AtlasCore
+version: Beta
+author: HyrPik
+main: fr.hyrpik.atlas.Main
+commands:
+  info:
+    description: Pour voir les reseaux du serveur.
+  alert:
+    description: Pour faire une alert sur le serveur.
+  lobby:
+    description: Pour aller au lobby/hub !
+    
